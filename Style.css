@@ -17,3 +17,15 @@ img{
     border-bottom-right-radius: 40%;
 
 }
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: -26px -19px 30px -19px rgba(0, 0, 0, 0.35);
+}
