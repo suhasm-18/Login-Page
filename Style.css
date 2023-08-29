@@ -10,3 +10,10 @@
     width: auto;
     height: 37.5rem;
 }
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+
+}
