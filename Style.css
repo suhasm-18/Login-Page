@@ -58,3 +58,19 @@ img{
     padding: 10px;
     margin: auto;
 }
+.fa-facebook:hover{
+    color: blue;;
+
+}
+.fa-instagram:hover{
+    color: rgb(255, 0, 183);;
+
+}
+.fa-github:hover{
+    color: rgba(66, 33, 33, 0.073);;
+
+}
+.fa-twitter:hover{
+    color: rgb(105, 204, 235);;
+
+}
